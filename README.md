@@ -5,4 +5,4 @@ This is a pinteresting sample application for
 
 by [Mattan Griffel](http://mattangriffel.com)
 
-Khader Ghanem 
+Student Khader Ghanem 
